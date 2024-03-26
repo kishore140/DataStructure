@@ -1,5 +1,4 @@
 class Stack{
-
     //Operations push(),pop(),peek(),isEmpty(),search()
     Node head;
     class Node{
@@ -11,7 +10,6 @@ class Stack{
         }
 
     }
-
     Stack(){
         head=null;
     }
