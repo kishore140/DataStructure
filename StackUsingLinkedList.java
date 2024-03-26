@@ -42,7 +42,6 @@ class Stack{
             System.out.println("Stack is not Empty");
         }
     }
-
 }
 public class StackUsingLinkedList {
     public static void main(String[] args){
